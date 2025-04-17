@@ -21,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "emmanuelarhu"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/emmanuelarhu/Employee_Management_System.git&quot;,
+    &quot;accountId&quot;: &quot;28210ca8-42d4-4569-90d8-c5c1c6823e19&quot;
+  }
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -80,7 +92,7 @@
       <updated>1744876450685</updated>
       <workItem from="1744876451633" duration="1652000" />
       <workItem from="1744878129642" duration="1969000" />
-      <workItem from="1744885828204" duration="12417000" />
+      <workItem from="1744885828204" duration="12784000" />
     </task>
     <servers />
   </component>
