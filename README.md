@@ -2,7 +2,8 @@
 
 A comprehensive JavaFX desktop application for managing employee data, performance, and departmental information.
 
-![Employee_Management_System](https://github.com/user-attachments/assets/d3996c75-fd02-413f-afe2-5e2dbfadd2c3)
+![Employee_Management_System](https://github.com/user-attachments/assets/607f4906-4e66-4c19-8670-8b85712ff204)
+
 
 ## Features
 
