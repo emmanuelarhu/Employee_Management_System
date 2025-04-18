@@ -2,7 +2,8 @@
 
 A comprehensive JavaFX desktop application for managing employee data, performance, and departmental information.
 
-![Employee_Management_System](https://github.com/user-attachments/assets/d3996c75-fd02-413f-afe2-5e2dbfadd2c3)
+![Employee_Management_System](https://github.com/user-attachments/assets/607f4906-4e66-4c19-8670-8b85712ff204)
+
 
 ## Features
 
@@ -73,7 +74,7 @@ A comprehensive JavaFX desktop application for managing employee data, performan
 2. Ensure Java 11+ is installed on your system
 3. Run the application using:
    ```
-   java -jar EmployeeManagementSystem.jar
+   java -jar Employee_Management_System.jar
    ```
 
 ### Building from Source
@@ -83,7 +84,7 @@ A comprehensive JavaFX desktop application for managing employee data, performan
 git clone https://github.com/emmanuelarhu/Employee_Management_System.git
 
 # Navigate to project directory
-cd employee-management-system
+cd Employee_Management_System
 
 # Build with Maven
 mvn clean package
@@ -131,5 +132,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## Acknowledgments
 
 - Built with JavaFX framework
-- Icons from [Icon Source]
 - Special thanks to all contributors
