@@ -1,9 +1,9 @@
 # IntelliJ project files
-.idea/
+.idea
 *.iml
 
 # Build output
-out/
+out
 
 # Java class files
 *.class
