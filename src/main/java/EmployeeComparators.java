@@ -1,5 +1,4 @@
 package main.java;
-
 import java.util.Comparator;
 
 public class EmployeeComparators {
