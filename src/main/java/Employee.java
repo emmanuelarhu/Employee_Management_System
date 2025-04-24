@@ -110,4 +110,11 @@ public class Employee<T> implements Comparable<Employee<T>> {
         // Sort by years of experience in descending order (most experienced first)
         return Integer.compare(other.yearsOfExperience, this.yearsOfExperience);
     }
+<<<<<<< HEAD
+=======
+
+    public String getLastName() {
+        return "";
+    }
+>>>>>>> master
 }

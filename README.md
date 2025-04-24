@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Employee_Management_System
 
 A comprehensive JavaFX desktop application for managing employee data, performance, and departmental information.
@@ -133,3 +134,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Built with JavaFX framework
 - Special thanks to all contributors
+=======
+# Employee_Management_System
+>>>>>>> master

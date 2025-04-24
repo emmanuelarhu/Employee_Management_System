@@ -457,10 +457,17 @@ public class Main extends Application {
     }
 
     private void addSampleData() {
+<<<<<<< HEAD
         database.addEmployee(new Employee<>(1, "Emmanuel Arhu", "IT", 75000, 4.5, 5, true));
         database.addEmployee(new Employee<>(2, "Sarah Johnson", "HR", 65000, 4.7, 7, true));
         database.addEmployee(new Employee<>(3, "Michael Brown", "Finance", 82000, 3.9, 4, true));
         database.addEmployee(new Employee<>(4, "Emily Davis", "IT", 78000, 4.2, 6, true));
+=======
+        database.addEmployee(new Employee<>(1, "John Smith", "IT", 75000, 4.2, 5, true));
+        database.addEmployee(new Employee<>(2, "Sarah Johnson", "HR", 65000, 4.7, 7, true));
+        database.addEmployee(new Employee<>(3, "Michael Brown", "Finance", 82000, 3.9, 4, true));
+        database.addEmployee(new Employee<>(4, "Emily Davis", "IT", 78000, 4.5, 6, true));
+>>>>>>> master
         database.addEmployee(new Employee<>(5, "David Wilson", "Marketing", 61000, 4.0, 3, true));
         database.addEmployee(new Employee<>(6, "Jennifer Taylor", "HR", 59000, 3.8, 2, false));
         database.addEmployee(new Employee<>(7, "Robert Martinez", "Finance", 85000, 4.6, 8, true));
