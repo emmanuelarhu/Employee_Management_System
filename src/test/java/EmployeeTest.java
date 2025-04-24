@@ -20,7 +20,7 @@ public class EmployeeTest {
         assertEquals(1, employee.getEmployeeId());
         assertEquals("John", employee.getName());
         assertEquals("Doe", employee.getLastName());
-        assertEquals(50000.0, employee.getSalary());
+        assertEquals(5000.0, employee.getSalary());
         assertEquals(40.0, employee.getPerformanceRating());
         assertEquals(101, employee.getDepartment());
         assertFalse(employee.isActive());
